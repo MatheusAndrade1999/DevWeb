@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    background-image: url(/imagens/fundo.png);
+    align-content: center;
+}
+a {
+    margin-right: 200px;
+}
+header{
+    margin-top: 25px;
+    margin-right: 200px;
+    display: flex;
+
+}
+.logo {
+    display: block;
+    margin-left: 200px;
+    margin-right: auto;
+    }
+.center {
+    display: block;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.btn-group{
+    padding: 2px;
+    text-shadow: 10px;
+    border-radius: 10px;
+}
+p { 
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+footer {
+    text-align: center;
+}
