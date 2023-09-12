@@ -4,6 +4,8 @@ body {
     align-content: center;
 }
 a {
+    text-align: right;
+    display: flex;
     margin-right: 200px;
 }
 header{
@@ -24,16 +26,17 @@ header{
     margin-right: auto;
     width: 70%;
 }
-.btn-group{
-    padding: 2px;
-    text-shadow: 10px;
-    border-radius: 10px;
-}
+
 p { 
     text-align: center;
+    font-size: 16px;
     margin-left: 200px;
     margin-right: 200px;
 }
 footer {
+    display: block;
+    color: white;
     text-align: center;
+    font-size: 18px;
+    background-color: #383f5d;
 }
