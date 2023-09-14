@@ -12,26 +12,23 @@ header{
     margin-top: 25px;
     margin-right: 200px;
     display: flex;
-
 }
-.logo {
-    display: block;
+h2{
     margin-left: 200px;
-    margin-right: auto;
-    }
-.center {
-    display: block;
-    margin-top: 5%;
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
+    margin-right: 200px;
 }
-
+ol{
+    margin-left: 200px;
+    margin-right: 200px;
+}
 p { 
     text-align: center;
     font-size: 16px;
     margin-left: 200px;
     margin-right: 200px;
+}
+form{
+    margin: 30px 200px 100px 200px
 }
 footer {
     display: block;
@@ -39,4 +36,22 @@ footer {
     text-align: center;
     font-size: 18px;
     background-color: #383f5d;
+}
+/* Classes */
+.menu{
+    display: flex;
+    margin-top: 18px;
+    margin-right: 20px;
+}
+.logo {
+    display: block;
+    margin-left: 200px;
+    margin-right: auto;
+    }
+.capa {
+    display: flex;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
