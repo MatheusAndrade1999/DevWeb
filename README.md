@@ -21,9 +21,7 @@ $ Teria utilização em Universidades para contar sua história e também para u
 $ Será aperfeiçoado com o tempo com animaçôes e melhor responsividade.
 ```
 
-## Additional Documentation and Acknowledgments
+## Agradecimentos
 
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
+* A Fatec SJC por toda oportunidade de ensino.
+* Ao Professor Jean Carlos Lourenço Costa por todo conhecimento.
