@@ -1,0 +1,6 @@
+venv/Scripts/activate
+# ativa a venv do flask
+flask run
+# roda o servidor flask
+flask run --host=0.0.0.0
+# roda servidor compartilhavel
